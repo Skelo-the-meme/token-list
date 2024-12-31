@@ -3,14 +3,14 @@
   "address": "C8fH81CWcaBSdoqow1iY1MXmwUjkBHVbceVYFs4djVMF",
   "symbol": "SKLO",
   "name": "Skelo",
-  "decimals": 6,
+  "decimals": 9,
   "logoURI": "https://i.ibb.co/DrdVBg1/users-ddc3f5cd5fe43f8b-images-2024-12-21-22-35-20.jpg",
   "tags": ["utility-token"],
   "extensions": {
     "website": "https://www.skelo.com",
-    "description": "Skelo is the ultimate meme token.",
+    "description": "Skelo the ultimate meme token.",
     "social": {
-      "twitter": "https://twitter.com/skelo",
+      "twitter": "https://x.com/skelesol",
       "telegram": "https://t.me/skelo"
     }
   }
